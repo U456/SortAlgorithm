@@ -1,0 +1,30 @@
+*{ margin:0; padding:0; font-size:13px; font-family:微软雅黑;}
+ul li{
+	list-style:none;
+}
+.body{ 
+	width:100%; 
+	margin:0 auto;
+	}
+.
+ .header_logo{ 
+	width:469px; 
+	height:65px; 
+	line-height:65px; 
+	font-size:24px; 
+	text-indent:110px;
+	} 
+.nav{ height:0;}
+.wrap{ width:100%; }
+.wrap:after{ display:block; content:""; clear:both;}
+ .siderbar{  height:580px; padding:5px; background:url(../Images/siderbar_bg.png) repeat-y; float:left;}
+.siderbar>li{
+	width:150px;
+	margin:10px 0 0 0;
+} 
+.siderbar div{ }
+.siderbar a{  width:139px; height:25px; line-height:25px; color:#333; line-height:25px; text-indent:25px; text-decoration:none; margin-left:15px; display:inline-block;}
+.content{ width:1185px; height:580px;padding:5px 0; background:url(../Images/userbg.jpg) no-repeat;background-size:cover; float:left; border-right:1px solid #e5e5e5;border-bottom:1px solid #e5e5e5;}
+
+.footer{ }
+.footer p{ font-size:16px; line-height:25px; text-align:center; }
